@@ -1,0 +1,13 @@
+.checkBox {
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+
+#nextButton {
+    margin-top: 10px;
+}
+
+#prevButton {
+    margin-top: 10px;
+}
